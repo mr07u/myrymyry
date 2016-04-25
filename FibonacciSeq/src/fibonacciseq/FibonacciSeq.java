@@ -32,6 +32,5 @@ public class FibonacciSeq {
     public static void main(String[] args) {
          FibonacciSeq fs = new FibonacciSeq();
          fs.FibonacciCount();
-   
     }
 }
